@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Intoxalock.Regular.POC.Web.props" />
+</Project>

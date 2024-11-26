@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Intoxalock.Regular.POC.Web", "Intoxalock.Regular.POC.Web\Intoxalock.Regular.POC.Web.csproj", "{5DF2C95A-F08A-439E-92E7-A5AF9C0CAA07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intoxalock.Regular.POC.DataAccess", "Intoxalock.Regular.POC.DataAccess\Intoxalock.Regular.POC.DataAccess.csproj", "{FB4CA2B1-3510-4873-B767-C8618B19DC83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DF2C95A-F08A-439E-92E7-A5AF9C0CAA07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF2C95A-F08A-439E-92E7-A5AF9C0CAA07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF2C95A-F08A-439E-92E7-A5AF9C0CAA07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF2C95A-F08A-439E-92E7-A5AF9C0CAA07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB4CA2B1-3510-4873-B767-C8618B19DC83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB4CA2B1-3510-4873-B767-C8618B19DC83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB4CA2B1-3510-4873-B767-C8618B19DC83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB4CA2B1-3510-4873-B767-C8618B19DC83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ACC80A1-7A58-4948-B2E0-59F1D2545721}
+	EndGlobalSection
+EndGlobal
